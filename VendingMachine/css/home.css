@@ -1,0 +1,34 @@
+h1 
+{
+    text-align: center;
+}
+
+h3
+{
+    text-align: center;
+}
+
+#left-side
+{
+    overflow-y: scroll;
+    height: 800px;
+}
+
+.item-button
+{
+    margin: 5px;
+}
+
+button
+{
+    background-color: green;
+    color:white;
+    text-align: center;
+    padding: 1%;
+}
+
+button:hover
+{
+    background-color: white;
+    color: green;
+}
