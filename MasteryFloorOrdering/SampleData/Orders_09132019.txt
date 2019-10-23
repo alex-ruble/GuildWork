@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Alex,Ohio,6.25,Wood,250,5.15,4.75,1287.50,1187.50,2475.0625,4950.0625
+3,Don,Michigan,5.75,Tile,600,3.50,4.15,2100.00,2490.00,4590.0575,9180.0575
+4,Dwight,Pennsylvania,6.75,Wood,100000000,5.15,4.75,515000000.00,475000000.00,990000000.0675,1980000000.0675

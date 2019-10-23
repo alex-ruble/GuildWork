@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+2,Dwight,Ohio,6.25,Tile,100000000,3.50,4.15,350000000.00,415000000.00,47812500.000000,812812500.000000
+3,Jeff,Texas,30.00,Tile,250,3.50,4.15,875.00,1037.50,573.7500,2486.2500
+4,Acme| Inc,Texas,30.00,Tile,250,3.50,4.15,875.00,1037.50,573.7500,2486.2500
